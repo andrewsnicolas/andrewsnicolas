@@ -9,6 +9,10 @@ lugar FECITEC 2025) pelo Instituto Federal de São Paulo.
     <td><img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></td>
     <td><img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/></td>
     <td><img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></td>
+    <td><img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/></td>
+  
+          
+          
   </tr>
 </table>
 <br><br>
